@@ -7,6 +7,7 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue?style=for-the-badge&logo=postgresql)](https://www.postgresql.org/)
 [![React](https://img.shields.io/badge/React-19.0.0-61DAFB?style=for-the-badge&logo=react)](https://reactjs.org/)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-3.4.17-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
+[![Ask DeepWiki](https://img.shields.io/badge/Ask-DeepWiki-9B59B6?style=for-the-badge&logo=wikipedia&logoColor=white)](https://deepwiki.com/KIKW12/via_alta)
 
 ## 🚀 Overview
 
